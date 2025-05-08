@@ -53,11 +53,6 @@ The generated `.png` file will be saved in the same directory.
 
 ---
 
-## 📦 Suggested Repository Name
-
-**QRCodeGen** — clear, keyword-rich, and professional.
-
----
 
 ## 🎯 Future Ideas
 
